@@ -1,5 +1,5 @@
 # Python Final Project 2024
-## Student Name: [Your Full Name]
+## Student Name: Mengchhing Khieng
 ## Project Title: [Your Project Title]
 This repository contains my final project for the Python course.
 - `proposal.md`: Project proposal
