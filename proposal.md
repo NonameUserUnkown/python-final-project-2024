@@ -13,7 +13,7 @@ Random: To generate food locations
 - Week 7: Focus on development in class (add controls to move the snake)
 - Weeks 8-12: Continue working on the project, adding features and testing
 - Week 13: Focus on finishing the game and fixing any issues
-- Week 14: Present your game to classmates and the instructor
+
 
 
 
